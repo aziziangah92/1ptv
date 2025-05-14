@@ -26,11 +26,11 @@ Sila isi URL dalam ott ikut step. bukan click link ini
 Sila isi URL dalam ott ikut step. bukan click link ini 
 
 
-#EXTM3U
-
-#EXTINF:-1 group-title="SHOPEE: broadcast_hub" group-logo="https://i.ibb.co/qbxWw4J/bh.jpg" tvg-id="Broadcast Hub" ch-number="100" tvg-name="Broadcast Hub" tvg-logo="https://i.ibb.co/gLnGf4BB/image.png", Shopee: broadcast_hub
+#EXTINF:-1 group-title=".Shopee: broadcast_hub" group-logo="https://i.ibb.co/gLnGf4BB/image.png" tvg-id="Broadcast Hub" ch-number="100" tvg-name="Broadcast Hub" tvg-logo="https://i.ibb.co/qbxWw4J/bh.jpg", Shopee: broadcast_hub
 https://drive.usercontent.google.com/u/0/uc?id=19cOopqXqPMpCqsqMYgAB4ixgX5ylxGGH&export=download
 
+
+#EXTM3U
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/qbxWw4J/bh.jpg" group-title="Malaysia",
 
   
