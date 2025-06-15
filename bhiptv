@@ -1012,7 +1012,13 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"c15541e4dde34c48a0d144a4b0ab7194":"ce82e3d81126183e5a262e320f6348b3","d5249cb40505495494828f42c37087cb":"d59f6a7bed00bd5348355ab5b3ee6aa0"}
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://cvnewitvlive-cdn.skyiptv.eu.org/stream/smtmynsg/ria0/fmp4_video.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
+
+#EXTINF:-1 tvg-id="AstroRia" group-title="Brunei" ch-number="104" group-logo="https://i.ibb.co/qbxWw4J/bh.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",RI4 （Backup）
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c15541e4dde34c48a0d144a4b0ab7194":"ce82e3d81126183e5a262e320f6348b3","d5249cb40505495494828f42c37087cb":"d59f6a7bed00bd5348355ab5b3ee6aa0"}
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://l16.dp.sooka.my/1004/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDk5NjczOTUsImlzcyI6IlZSIiwiZXhwIjoxNzUwMDI2NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYTZjMTRkYjktYTE4Ny00MjlkLWIzNTYtZWIxNjIzZGFkNjk5IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.gtukJwzuEPQeQwYwLqwS1NPwF7PYdQeL6WXNrDZ1Hfk
+
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Brunei" ch-number="105" group-logo="https://i.ibb.co/qbxWw4J/bh.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIM4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1021,13 +1027,26 @@ https://l16.dp.sooka.my/1004/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 https://cvnewitvlive-cdn.skyiptv.eu.org/stream/smtmynsg/primabackup/fmp4_video.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
 https://l18.dp.sooka.my/1000/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDk5NjczOTUsImlzcyI6IlZSIiwiZXhwIjoxNzUwMDI2NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYTZjMTRkYjktYTE4Ny00MjlkLWIzNTYtZWIxNjIzZGFkNjk5IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.gtukJwzuEPQeQwYwLqwS1NPwF7PYdQeL6WXNrDZ1Hfk
 
+
+#EXTINF:-1 tvg-id="AstroPrima" group-title="Brunei" ch-number="105" group-logo="https://i.ibb.co/qbxWw4J/bh.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIM4 (Backup)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://l18.dp.sooka.my/1000/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDk5NjczOTUsImlzcyI6IlZSIiwiZXhwIjoxNzUwMDI2NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYTZjMTRkYjktYTE4Ny00MjlkLWIzNTYtZWIxNjIzZGFkNjk5IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.gtukJwzuEPQeQwYwLqwS1NPwF7PYdQeL6WXNrDZ1Hfk
+
+
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Brunei" group-logo="https://i.ibb.co/qbxWw4J/bh.jpg" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Citra_%282024%29.png",CITR4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://cvnewitvlive-cdn.skyiptv.eu.org/stream/smtmynsg/citra0/fmp4_video.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
-https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/413HtMT_ihEenIVn7lK1FJZqcy11pbD-wdf81e2GJVfgA=DvyA/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=cd12341c-5240-4f08-8d22-9ac21bb15b1c
 
+
+#EXTINF:-1 tvg-id="AstroCitra" group-title="Brunei" group-logo="https://i.ibb.co/qbxWw4J/bh.jpg" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Citra_%282024%29.png",CITR4 (Backup)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/413HtMT_ihEenIVn7lK1FJZqcy11pbD-wdf81e2GJVfgA=DvyA/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=cd12341c-5240-4f08-8d22-9ac21bb15b1c
 
 ###################################################################################################################################################################
 #############################################  ENTERTAINMENT  #############################################@#######################################################
